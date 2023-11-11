@@ -26,5 +26,11 @@ Para executar o projeto, siga esses passos:
 1. Compile o projeto. Você pode usar o Maven, para executar utilize o comando: mvn compile.
 2. Execute o projeto. No Maven, você pode usar: mvn test
 
+Resultado das execuções
+
+1° Execução feita com sucesso, a busca retornou resultados.
+2° Execução sem sucesso, a execução do segundo cenário pude detectar que a busca por data não esta retornando resultados.
+
 Contato
+
 Se você encontrou um problema, fique a vontade para me contatar.
